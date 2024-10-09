@@ -1,0 +1,198 @@
+2024-10-10 03:14:15,878 - INFO - Fetching articles from http://rss.cnn.com/rss/cnn_topstories.rss...
+2024-10-10 03:14:17,205 - INFO - Fetching articles from http://qz.com/feed...
+2024-10-10 03:14:18,232 - INFO - Fetching articles from http://feeds.foxnews.com/foxnews/politics...
+2024-10-10 03:14:22,287 - INFO - Fetching articles from http://feeds.reuters.com/reuters/businessNews...
+2024-10-10 03:14:22,365 - ERROR - Failed to parse feed from http://feeds.reuters.com/reuters/businessNews: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-10-10 03:14:22,365 - INFO - Fetching articles from http://feeds.feedburner.com/NewshourWorld...
+2024-10-10 03:14:23,587 - INFO - Fetching articles from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml...
+2024-10-10 03:14:27,328 - INFO - Sending article to Celery for classification: Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: 'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Newly released video shows scene of Jeremy Renner's snowplow accident
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Toddler crawls through White House fence, prompts Secret Service response
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: Jamie Foxx remains hospitalized nearly a week after 'medical complication'
+2024-10-10 03:14:27,421 - INFO - Sending article to Celery for classification: A 13-year-old dies after participating in a Benadryl TikTok 'challenge'
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: See pizza delivery guy take out suspect fleeing police
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: Netflix is winding down its DVD business after 25 years
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: Eating too much of these foods is driving the rise in type 2 diabetes, study says
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: ADHD medication abuse in schools is a 'wake-up call'
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: Apple CEO was presented with an original Macintosh. See his reaction
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: Democrats bash Justice Clarence Thomas but their plan to investigate ethics allegations is unclear
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: Russia is 'going backwards' in equipment and deploying post WWII-era tanks, according to Western officials
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: Two Russians claiming to be former Wagner commanders admit killing children and civilians in Ukraine
+2024-10-10 03:14:27,437 - INFO - Sending article to Celery for classification: 'My stomach is hurting from laughing': Hear panelist's reaction to DeSantis' threat to Disney
+2024-10-10 03:14:27,453 - INFO - Sending article to Celery for classification: GOP prepared to block vote to replace Feinstein on Senate Judiciary
+2024-10-10 03:14:27,453 - INFO - Sending article to Celery for classification: Oklahoma governor calls on officials to resign over recording of racist and threatening remarks
+2024-10-10 03:14:27,453 - INFO - Sending article to Celery for classification: McCarthy slams Biden in handling of US debt
+2024-10-10 03:14:27,453 - INFO - Sending article to Celery for classification: US warns Russia not to touch American nuclear technology at Ukrainian nuclear plant
+2024-10-10 03:14:27,453 - INFO - Sending article to Celery for classification: Repeated gunshots fired on live TV as ex-lawmaker shot by assassins
+2024-10-10 03:14:27,453 - INFO - Sending article to Celery for classification: FDA clears the way for additional bivalent boosters for certain vulnerable individuals
+2024-10-10 03:14:27,468 - INFO - Sending article to Celery for classification: Maine authorities detained a person of interest after 4 people were found dead in a home and 3 others shot while driving
+2024-10-10 03:14:27,468 - INFO - Sending article to Celery for classification: Southwest says flights resumed after delays caused by 'tech issues'
+2024-10-10 03:14:27,468 - INFO - Sending article to Celery for classification: Damar Hamlin cleared to resume football activities after January cardiac arrest
+2024-10-10 03:14:27,468 - INFO - Sending article to Celery for classification: Pilot makes history after landing on top of a 56-story hotel
+2024-10-10 03:14:27,468 - INFO - Sending article to Celery for classification: Top US Navy admiral defends non-binary sailor amid some Republican criticism
+2024-10-10 03:14:27,468 - INFO - Sending article to Celery for classification: Fulton County DA says fake Trump electors are incriminating one another and wants lawyer disqualified
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: High speed trains are racing across the world. But not in America
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: Podcast: One country musician is calling for other artists to oppose assault rifles
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: Here's what you need to know if you haven't filed your return yet — and even if you have
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: Undocumented immigrants are paying their taxes today, too
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: Opinion: Why millionaires like us want to pay more in taxes
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: 'World's longest' purpose-built cycling tunnel opens in Norway
+2024-10-10 03:14:27,484 - INFO - Sending article to Celery for classification: Artist rejects photo prize after AI-generated image wins award
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: These ships disappeared in Lake Superior a century ago. Watch as they're found again
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: Erotic images of seniors show sex and intimacy in new light
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: China's economy is off to a solid start, rising 4.5% in Q1 2023
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: Even when wives make as much as husbands, they still do more at home
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: McDonald's is upgrading its burgers
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: Google-parent stock drops on fears it could lose search market share to AI-powered rivals
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: Bidets save you money and reduce waste — we tested the best options out there
+2024-10-10 03:14:27,499 - INFO - Sending article to Celery for classification: 50+ products to make your life easier and our planet cleaner
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: Mother's Day is around the corner. Here are 50+ thoughtful gifts she'll love
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: A head-to-toe guide of how men should dress this spring, and where they should shop
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: 42 of the most useful travel products you can buy on Amazon
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: The 7 best high-yield savings accounts of April 2023
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: Taxes are due tomorrow. Here's how to file for an extension
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: Composting is an easy way to reduce food waste. Here's how to do it
+2024-10-10 03:14:27,510 - INFO - Sending article to Celery for classification: We stopped using aluminum foil for cooking and you should too. Here's what to use instead
+2024-10-10 03:14:27,516 - INFO - Sending article to Celery for classification: The beloved Dyson Supersonic hair dryer is at its lowest price ever
+2024-10-10 03:14:27,517 - INFO - Sending article to Celery for classification: Everything you need to know about Way Day 2023, Wayfair's biggest sale of the year
+2024-10-10 03:14:27,518 - INFO - Sending article to Celery for classification: The 10 best Amazon deals to shop this week
+2024-10-10 03:14:27,519 - INFO - Sending article to Celery for classification: Mifepristone saved my life
+2024-10-10 03:14:27,519 - INFO - Sending article to Celery for classification: The 2024 presidential alternative many voters will want
+2024-10-10 03:14:27,520 - INFO - Sending article to Celery for classification: Why isn't the House Judiciary Committee looking into Thomas?
+2024-10-10 03:14:27,521 - INFO - Sending article to Celery for classification: Top secrets come spilling out
+2024-10-10 03:14:27,522 - INFO - Sending article to Celery for classification: How did Sudan go from casting off despotic rule to this?
+2024-10-10 03:14:27,522 - INFO - Sending article to Celery for classification: Michelle Yeoh set to return in new 'Star Trek' movie
+2024-10-10 03:14:27,523 - INFO - Sending article to Celery for classification: Recap: 'Succession' finds dark humor in the aftershocks
+2024-10-10 03:14:27,524 - INFO - Sending article to Celery for classification: 'Yellowjackets' leans hard into '90s music nostalgia, and we're here for it
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Jeremy Renner revisits 'the amazing group of people' who helped him recover from his accident
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Review: 'Barry' takes a whack at its farewell season
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Elon Musk's Tesla robotaxi event is coming. Here's what to know
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: What retailers are doing to support Floridians during Hurricane Milton
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Waffle House has its own hurricane index and storm center. Milton is Code Red. Here's what that means
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: The Dow spikes more than 400 points as Fed minutes and an inflation report come into focus
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Amazon is doubling down on pharmacies
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: The Boeing machinist strike is nearing its fourth week. Where do things stand?
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Nvidia wants to drive AI costs down as 'reasoning' models rise
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: AOC to Mark Cuban and other Kamala Harris backers: Stay away from FTC chair Lina Khan
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Offering Wegovy and other weight loss drugs on Medicare could cost $35 billion
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: McDonald's is joining the FTC in going after an alleged meat monopoly
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: GM is walking a tightrope between gas and electric cars
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Honda recalls 2 million vehicles with a steering bug
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: A Turkish Airlines pilot died mid-flight, forcing an emergency landing in New York
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: 3 women got kicked off a Spirit Airlines flight — for wearing crop tops
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Mountain Dew's rebrand has a nostalgic new look
+2024-10-10 03:14:27,525 - INFO - Sending article to Celery for classification: Medicare wants to make these generic drugs available for just $2
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: CVS and UnitedHealth want FTC Chair Lina Khan to recuse herself from a case over insulin prices
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: An HBO documentary says Peter Todd is the Bitcoin creator known as Satoshi Nakamoto. He denies it
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Nvidia's stock surge sent its market cap past Microsoft's and close to a record high
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Disneyland is raising prices — again
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: GM swears it really will make money on electric cars soon
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Bankrupt EV startup Fisker's legal troubles keep getting worse
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: The Boeing strike has no end in sight
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Costco's conundrum: How to compete online without killing that 'treasure hunt' vibe
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Mortgage rates are rising again
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Google might get broken up after its big antitrust loss
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: The 10 most valuable private companies in the world
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: 15 cities with the most expensive fast food in America
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Ozempic and prescription weight loss drugs: How they work, what they cost, side effects, and everything to know
+2024-10-10 03:14:27,541 - INFO - Sending article to Celery for classification: Hurricane Milton is dealing Allegiant Air a double-whammy of cancellations
+2024-10-10 03:14:27,557 - INFO - Sending article to Celery for classification: Domino's brings back 'emergency pizza' promotion that drove sales
+2024-10-10 03:14:27,559 - INFO - Sending article to Celery for classification: Americans are slowing down on their credit card spending — here’s why
+2024-10-10 03:14:27,562 - INFO - Sending article to Celery for classification: Lyft rolls out new payment measures to gain more drivers
+2024-10-10 03:14:27,563 - INFO - Sending article to Celery for classification: FAANG and data center stocks are a buy to cash in on AI's next phase, strategist says
+2024-10-10 03:14:27,564 - INFO - Sending article to Celery for classification: Luxury car sales are tanking as drivers look for cheaper options
+2024-10-10 03:14:27,565 - INFO - Sending article to Celery for classification: All the airports closing for Hurricane Milton
+2024-10-10 03:14:27,566 - INFO - Sending article to Celery for classification: The next Nvidia? Data center stocks could be a goldmine, strategist says
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Home Depot says corporate employees have to try working in actual stores
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Look inside Clint Eastwood’s California home that just sold for more than $18 million
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: WeightWatchers is getting in on the off-brand weight loss drug game — and selling them cheap
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: A self-driving truck startup wants Waymo, Cruise, and others to follow its lead on safety
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Kamala Harris wants Medicare to help cover in-home eldercare. Here's how she plans to pay for it
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Two AI pioneers won the Nobel Prize for their work in machine learning
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Toyota is delaying plans to make electric cars in America
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Bitcoin creator Satoshi Nakamoto unmasked: Will HBO reveal who really made the cryptocurrency?
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Even a grocery store is offering free streaming perks now
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: 10 cities where low mortgage rates have homeowners locked in 'golden handcuffs'
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Tesla's big robotaxi event might not even have real cars
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: SpaceX says it could launch Starship soon if the FAA lets it
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Uber will use ChatGPT to get more people to use EVs
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Fox News Politics: Is Harris or Trump more accessible?
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: How US government will dole out aid to victims of Hurricanes Milton, Helene
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Trump foe Mitt Romney resists endorsing Harris
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Same poll taken one month apart shows which presidential candidate has momentum in key states
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Harris risks losing crucial battleground state due to Biden's gas export pause, as Dems plead to change course
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Vance’s Midwestern roots appeal to Michigan swing-county voters despite Buckeye ties
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Trump vs Harris Round 2? Voters in key GA county reveal if they want second debate
+2024-10-10 03:14:27,568 - INFO - Sending article to Celery for classification: Biden and Netanyahu speak after report US president called Israeli counterpart a ‘bad f---ing guy’
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Afghan national charged with Election Day terror plot reignites vetting concerns: ‘Glaring alarms’
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Colorado Supreme Court dismisses lawsuit against Christian baker who refused to bake trans cake
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Ohio Lt. Gov. encourages support for Trump’s ‘swamp the vote’ strategy as key state's early voting opens
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Michigan Senate candidates clash on national security, immigration and abortion
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: FEMA reports it has under 10% of front-line staff available ahead of Hurricane Milton
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Kamala Harris' failure at 'prosecutor 101' basics led to hundreds of drug convictions being tossed out: expert
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Trump to hold rally at New York's Madison Square Garden ahead of Election Day
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Trump has 9-point lead on most important issue to voters: poll
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: North Korean troops now fighting for Russia in Ukraine, Seoul says
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Virginia voter roll removal process violates federal law, groups allege — state fires back
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Over 5,700 children in 5-year period had gender surgeries, most from 5 liberal states: watchdog
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Swing state GOP chair slams Biden-Harris admin for being out of touch on key issue: 'Abandoned this country'
+2024-10-10 03:14:27,583 - INFO - Sending article to Celery for classification: Election board in crucial swing state sued over dispute on who will monitor election results
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: As Gaza war drags past 1 year mark, hope fades for a deal to bring hostages home soon
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: 'Abandon Harris' group endorses Jill Stein over 'pro-genocide candidate' Kamala Harris
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Conservatives dismiss Biden parole limits on 500K migrants: ‘Optics-driven smokescreen’
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Arizona begins in-person and absentee voting, here's what you need to know
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Xi Jinping celebrates China’s rising power — and his own
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: The battle for Mosul is over, but this hidden ISIS danger could lurk for years
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: As Rohingya refugees continue to flee from persecution, here’s how you can help
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Tillerson: ‘Heartbreaking’ reports of suffering in Myanmar
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Far-right groups gain ground in Sweden and Germany amid migrant influx
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: U.S.-backed Syrian forces recapture Raqqa from Islamic State group
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: WATCH: Trump and Greek prime minister hold joint news conference
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: U.S., Japan agree to maximize diplomatic pressure on North Korea
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: News Wrap: Dozens missing after deadly Mogadishu truck bombing
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Why a power struggle has broken out over Kirkuk
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Rex Tillerson says continue diplomacy with North Korea ‘until first bomb drops’
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Iraqi, Kurdish forces in standoff, weeks after Kurdish vote for independence
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: South Sudan civil war causes Africa’s worst refugee crisis
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Hundreds dead after massive truck bomb strikes Mogadishu
+2024-10-10 03:14:27,599 - INFO - Sending article to Celery for classification: Column: Why reporting from South Sudan is so difficult — and critically needed
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: Indian tycoon Ratan Tata dies aged 86
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: Kashmir and Haryana prove India exit polls wrong
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: 'Our son died. Now we can use his sperm to have a grandchild'
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: Teen breaks record by climbing Earth's highest peaks
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: Indian financial aid opens 'new chapter' with Maldives
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: Climbers rescued after three days in the Himalayas
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: Obituary: Ratan Tata, the 'modest' Indian tycoon
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: The Polish artist who painted Hindu gods in Indian palaces
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: How India became a Test cricket powerhouse
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: India's iconic tramcars set to ride into Kolkata sunset
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: My mission is to take Tamil music global, says Sid Sriram
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: India's top court saves a poor student's college dream
+2024-10-10 03:14:27,615 - INFO - Sending article to Celery for classification: The 'mastermind' behind India's biggest jailbreak
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: The world’s diamond polishing capital feels Ukraine war impact
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: Sold out in minutes, resold for millions: Coldplay tickets spark outrage in India
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: A famed holy sweet in an unsavoury row in India
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: Your essential guide to the ICC Women's T20 World Cup
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: The Kashmiri politician whose return from jail ruffled feathers
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: Death of Indian employee sparks debate on 'toxic work culture'
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: Tigers and crocs make mangrove preservation tough work
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: How Punjabi megastar Diljit Dosanjh is inspiring the next gen
+2024-10-10 03:14:27,630 - INFO - Sending article to Celery for classification: Hema committee report: Why are India's biggest film stars silent?
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Volunteers dying as Russia’s war dead tops 70,000
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Why hundreds of Samsung workers are protesting in India
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: India's oldest trams may soon be brought to a halt
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Kolkata night protest: 'Today I witnessed history'
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Watch: Thousands of women protest about rape and murder of doctor in India
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Watch: Building collapses into river in Himachal Pradesh
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Watch: Blue screens, queues and airport delays worldwide
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: WATCH: Families mourn victims of deadly India crush
+2024-10-10 03:14:27,646 - INFO - Sending article to Celery for classification: Watch: Delhi airport roof collapses due to heavy rain
+2024-10-10 03:14:27,662 - INFO - Sending article to Celery for classification: What worked for India's Modi - and what didn’t?
